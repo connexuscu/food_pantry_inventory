@@ -1,7 +1,7 @@
 
 <img src="images/logo/inventree.png" alt="InvenTree" width="128"/>
 
-# InvenTree
+# food pantry inventory
 
 <p><a href="https://twitter.com/intent/follow?screen_name=inventreedb">
         <img src="https://img.shields.io/twitter/follow/inventreedb?style=social&logo=twitter"
