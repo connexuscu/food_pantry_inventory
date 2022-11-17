@@ -1,5 +1,5 @@
 # Please keep this list sorted
-Django==3.2.13                          # Django package
+Django==3.2.16                          # Django package
 bleach==4.1.0                           # HTML santization
 certifi                                 # Certifi is (most likely) installed through one of the requirements above
 coreapi==2.3.0                          # API documentation
@@ -37,7 +37,7 @@ importlib_metadata                      # Backport for importlib.metadata
 inventree                               # Install the latest version of the InvenTree API python library
 markdown==3.3.4                         # Force particular version of markdown
 pep8-naming==0.11.1                     # PEP naming convention extension
-pillow==9.0.1                           # Image manipulation
+pillow==9.2.0                           # Image manipulation
 py-moneyed==0.8.0                       # Specific version requirement for py-moneyed
 pygments==2.7.4                         # Syntax highlighting
 python-barcode[images]==0.13.1          # Barcode generator
@@ -45,3 +45,4 @@ qrcode[pil]==6.1                        # QR code generator
 rapidfuzz==0.7.6                        # Fuzzy string matching
 tablib[xls,xlsx,yaml]                   # Support for XLS and XLSX formats
 weasyprint==52.5                        # PDF generation library (Note: in the future need to update to 53)
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
