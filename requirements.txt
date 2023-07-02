@@ -39,7 +39,7 @@ markdown==3.3.4                         # Force particular version of markdown
 pep8-naming==0.11.1                     # PEP naming convention extension
 pillow==9.0.1                           # Image manipulation
 py-moneyed==0.8.0                       # Specific version requirement for py-moneyed
-pygments==2.7.4                         # Syntax highlighting
+pygments==2.15.0                         # Syntax highlighting
 python-barcode[images]==0.13.1          # Barcode generator
 qrcode[pil]==6.1                        # QR code generator
 rapidfuzz==0.7.6                        # Fuzzy string matching
