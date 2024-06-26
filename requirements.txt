@@ -29,7 +29,7 @@ django-stdimage==5.1.1                  # Advanced ImageField management
 django-test-migrations==1.1.0           # Unit testing for database migrations
 django-user-sessions==1.7.1             # user sessions in DB
 django-weasyprint==1.0.1                # django weasyprint integration
-djangorestframework==3.12.4             # DRF framework
+djangorestframework==3.15.2             # DRF framework
 django-xforwardedfor-middleware==2.0    # IP forwarding metadata
 flake8==3.8.3                           # PEP checking
 gunicorn>=20.1.0                        # Gunicorn web server
